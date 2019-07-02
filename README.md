@@ -1,7 +1,10 @@
 3D FCN for Video Salient Object Segmentation
 =====================================================================================
 
+The code is based on [Caffe v-1.1](https://github.com/BVLC/caffe).
+
 Models are downloaded [here](https://drive.google.com/open?id=1iowHh0OETwMS0zr6o1BHdPsBnBRXSjHq).
+
 Pre-computed results are downloaded from [our project page](https://sites.google.com/view/ltnghia/research/3d_saliency).
 
 Citation
